@@ -783,4 +783,4 @@ FodyWeavers.xsd
 *.vcxproj
 *.vcxproj*
 *.sln
-
+docs/
